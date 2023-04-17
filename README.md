@@ -32,6 +32,14 @@ https://yugipedia.com/wiki/Category:Rush_Duel_cards
 - **December 17, 2022**: Yu-Gi-Oh! Rush Duel Duel Disk Yudias Version (RD/DD02-JP): `120232XXX`
 - **December 2, 2022**: Yu-Gi-Oh! GO RUSH!! Volume 1 promotional card (RD/CGR1-JP): `120233XXX`
 - **December 17, 2022**: Rush Duel Promotion Pack 2023 (RD/23PR-JP): `120234XXX`
+- **January 21, 2023**: Deck Mod Pack: Double Star of the Assault!! (RD/KP12-JP): `120235XXX`
+- **December 1, 2022**: Yu-Gi-Oh! RUSH DUEL: Saikyo Battle Royale!! Let's Go! Go Rush!! Galactica Victories promotional card (RD/G002-JPB): `120236XXX`
+- **January 1, 2023**: Battle Pack 2022 Vol.4 (RD/B224-JP): `120237XXX`
+- **March 4, 2023**: Legend Awakening Pack (RD/LGP1-JP): `120238XXX`
+- **April 8, 2023**: Versus Pack Maximum Force (RD/VSP1-JP): `120239XXX`
+- **2023**: Battle Pack 2023 Vol.1 (RD/B224-JP): `120241XXX`
+- **2023**: Unknown: `120242XXX`
+- **May 13, 2023**: Oblivion of the Flash (RD/KP13-JP): `120244XXX`
 
 ## Starter decks
 - **April 4, 2020** : Starter Deck Yuga - Cut Through! Sevens Road!! (RD/ST01-JP): `120105XXX`
@@ -53,6 +61,7 @@ https://yugipedia.com/wiki/Category:Rush_Duel_cards
 - **August 12, 2021**: Yu-Gi-Oh! Rush Duel Saikyo Battle Royale promotional cards (RD/G001-JP): `120181XXX`
 - **November 24, 2021**: Yu-Gi-Oh! SEVENS Duel-5 Blu-ray & DVD promotional card (RD/BD05-JP): `120195XXX`
 - **August 25, 2021**: Yu-Gi-Oh! SEVENS Duel-4 Blu-ray & DVD promotional card (RD/BD04-JP): `120126XXX`
+- **2023** Dinosaur Exhibition 2023 Promotion Pack (RD/DEC1-JP): `120243XXX`
 
 # Archived
 - **2020** : Victory Pack Legendary Red-Eyes (RD/VJMP-JP): `120125XXX`
