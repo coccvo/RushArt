@@ -1,11 +1,13 @@
 # Upcoming
 https://yugipedia.com/wiki/Category:Rush_Duel_cards
 
-- **June 6, 2023**: Coco's x Yu-Gi-Oh! Card Game Anniversary Campaign 2 (RD/CCC1-JP): `1202465XX`
-- **June 24, 2023**: Triple Build Pack: Godbreath Wing (RD/TB01-JP): `120247XXX`
-- **July 27, 2023**: Jump Victory Carnival 2023 promotional card (RD/VC23-JP): `120248XXX`
+- **September 2022**: Yu-Gi-Oh! SEVENS Complete Challenge 3 (RD/D001): `120251XXX`
 - **August 11, 2023**: Phoenix of the Roaring Flame (RD/KP14): `120249XXX`
-- **July 1, 2023** Battle Pack 2023 Vol.2 (RD/B232): `120250XXX`
+- **July 1, 2023**: Battle Pack 2023 Vol.2 (RD/B232): `120250XXX`
+- **September 30, 2023**: Structure Deck: Ultimate Blue-Eyes Legend (RD/SD0A-JP): `120252XXX`
+- **October 1, 2023**: Rush Duel Card Game Gum (RD/ECG1): `120102XXX`
+- **October 14, 2023**: Megaroad Pack 2 (RD/MRP2): `120246XXX`
+- **November 11, 2023**: Red Reboot of Darkness (RD/KP15): `120253XXX`
 
 # Archived
 - **April 3, 2020** : Saikyō Jump May 2020 promotional card (RD/SJMP-JP) : `120100XXX`
@@ -96,6 +98,7 @@ https://yugipedia.com/wiki/Category:Rush_Duel_cards
 - **December 17, 2022**: Yu-Gi-Oh! Rush Duel Duel Disk Yudias Version (RD/DD02-JP): `120232XXX`
 - **January 1, 2023**: Battle Pack 2022 Vol.4 (RD/B224-JP): `120237XXX`
 - **January 1, 2023**: Battle Pack 2023 Vol.1 (RD/B221-JP): `120241XXX`
+- **January 4, 2023**: Yu-Gi-Oh! Rush Duel LP Volume 2 promotional card (RD/RLP2-JP): `120101XXX`
 - **January 21, 2023**: Deck Mod Pack: Double Star of the Assault!! (RD/KP12-JP): `120235XXX`
 - **January 25, 2023**: Yu-Gi-Oh! GO RUSH!! Duel-2 Blu-ray & DVD promotional card (RD/BDG2-JP): `120218004`
 - **March 4, 2023**: Legend Awakening Pack (RD/LGP1-JP): `120238XXX`
@@ -103,6 +106,8 @@ https://yugipedia.com/wiki/Category:Rush_Duel_cards
 - **April 8, 2023**: Versus Pack Maximum Force (RD/VSP1-JP): `120239XXX`
 - **April 20, 2023**: Excutie Duel Set (RD/JF23-JP): `120242XXX`
 - **May 13, 2023**: Oblivion of the Flash (RD/KP13-JP): `120244XXX`
-- **July 27, 2022**: Yu-Gi-Oh! SEVENS Duel-7 Blu-ray & DVD promotional card (RD/BD07-JP): `120218002`
 - **April 1, 2023**: Battle Pack 2023 Vol.1 (RD/B231-JP): `120241XXX`
 - **June 2, 2023**: Yu-Gi-Oh! GO RUSH!! Volume 2 promotional card (RD/CGR2-JP): `120245XXX`
+- **June 6, 2023**: Coco's x Yu-Gi-Oh! Card Game Anniversary Campaign 2 (RD/CCC1-JP): `1202465XX`
+- **June 24, 2023**: Triple Build Pack: Godbreath Wing (RD/TB01-JP): `120247XXX`
+- **July 27, 2023**: Jump Victory Carnival 2023 promotional card (RD/VC23-JP): `120248XXX`
