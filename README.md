@@ -4,10 +4,18 @@ https://yugipedia.com/wiki/Category:Rush_Duel_cards
 - **September 2022**: Yu-Gi-Oh! SEVENS Complete Challenge 3 (RD/D001): `120251XXX`
 - **August 11, 2023**: Phoenix of the Roaring Flame (RD/KP14): `120249XXX`
 - **July 1, 2023**: Battle Pack 2023 Vol.2 (RD/B232): `120250XXX`
-- **September 30, 2023**: Structure Deck: Ultimate Blue-Eyes Legend (RD/SD0A-JP): `120252XXX`
+- **September 30, 2023**: Structure Deck: Ultimate Blue-Eyes Legend (RD/SD0A): `120252XXX`
 - **October 1, 2023**: Rush Duel Card Game Gum (RD/ECG1): `120102XXX`
+- **October 1, 2023**: Battle Pack 2023 Vol.3 (RD/B233): `120104XXX`
 - **October 14, 2023**: Megaroad Pack 2 (RD/MRP2): `120246XXX`
+- **November 1, 2023**: Tournament Battle November 2023 prize card (RD/S23P): `120113XXX`
 - **November 11, 2023**: Red Reboot of Darkness (RD/KP15): `120253XXX`
+- **December 4, 2023** Yu-Gi-Oh! GO RUSH!! Volume 3 promotional card (RD/CGR3): `120245XXX`
+- **December 16, 2023**: High-Grade Collection (RD/HC01): `120254XXX`
+- **December 16, 2023**: Rush Duel Promotion Pack 2024 (RD/24PR): `120256XXX`
+- **April 1, 2024**: "Duelist Kingdom: Earn Star Chips!" Limited Pack (RD/DK01): `120255XXX`
+- **February 10, 2024**: ???? (RD/KP16): `120257XXX`
+- **January 1, 2024**: ???? (RD/B234): `120258XXX`
 
 # Archived
 - **April 3, 2020** : Saikyō Jump May 2020 promotional card (RD/SJMP-JP) : `120100XXX`
