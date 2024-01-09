@@ -14,8 +14,8 @@ https://yugipedia.com/wiki/Category:Rush_Duel_cards
 - **December 16, 2023**: High-Grade Collection (RD/HC01): `120254XXX`
 - **December 16, 2023**: Rush Duel Promotion Pack 2024 (RD/24PR): `120256XXX`
 - **April 1, 2024**: "Duelist Kingdom: Earn Star Chips!" Limited Pack (RD/DK01): `120255XXX`
-- **February 10, 2024**: ???? (RD/KP16): `120257XXX`
-- **January 1, 2024**: ???? (RD/B234): `120258XXX`
+- **February 10, 2024**: Transamu of Transcendence (RD/KP16): `120257XXX`
+- **January 1, 2024**: Battle Pack 2023 Vol.4 (RD/B234): `120258XXX`
 
 # Archived
 - **April 3, 2020** : Saikyō Jump May 2020 promotional card (RD/SJMP-JP) : `120100XXX`
